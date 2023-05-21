@@ -118,7 +118,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 #[params.subscription]
 #enable = true
 # mailchimp subsciption
-#mailchimp_form_action = "https://jimmysong.us20.list-manage.com/subscribe/post?u=cca519d8764547a389f52c57f&amp;id=e8e9e07dcc"
+#mailchimp_form_action = "https://xxx.us20.list-manage.com/subscribe/post?u=cca519d8764547a389f52c57f&amp;id=e8e9e07dcc"
 # Use RSS instead
 #mailchimp_form_name = "b_cca519d8764547a389f52c57f_e8e9e07dcc"
 
@@ -141,7 +141,7 @@ map_marker = "images/marker.png"
 # [[params.social]]
 # title = "twitter"
 # icon = "fa-twitter"
-# link = "https://twitter.com/jimmysongio"
+# link = "https://twitter.com/simonwei"
 
 #[[params.social]]
 #title = "youtube"
@@ -232,9 +232,6 @@ URL = "/awesome-cloud-native/"
 #name = "Jimmy's YouTube Channel"
 #URL = "https://www.youtube.com/channel/UCwLGlxo3b492bzIgD8lnOKg/"
 
-[[menu.footer]]
-name = "Tetrate - Service Mesh Company"
-URL = "https://tetrate.io/?jimmysong"
 
 # courses
 [[menu.book]]

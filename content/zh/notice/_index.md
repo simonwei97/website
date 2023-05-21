@@ -8,5 +8,3 @@ description: "重要信息通知。"
 type: "notice"
 image: "images/backgrounds/notification.jpg"
 ---
-
-<!-- -   [Jimmy Song - 专注于探索后 Kubernetes 时代的云原生新范式](https://jimmysong.io/) -->

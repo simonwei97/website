@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-# image: "images/about/jimmysong-xj.webp"
+# image: "images/about/simonwei-xj.webp"
 # meta description
 description: "魏晓鹏（Simon Wei）的简介。"
 ---
