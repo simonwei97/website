@@ -1,0 +1,43 @@
+{
+    "index_name": "DocSearch",
+    "start_urls": [
+        {
+            "url": "https://wwww.simonwei.top/blog/"
+        },
+        {
+            "url": "https://wwww.simonwei.top/en/blog/"
+        },
+        {
+            "url": "https://wwww.simonwei.top/blog/"
+        }
+    ],
+    "selectors": {
+        "default": {
+            "lvl0": {
+                "selector": ".custom-breadcrumb .h2",
+                "default_value": "主站"
+            },
+            "lvl1": ".custom-breadcrumb .h3",
+            "lvl2": ".content h2",
+            "lvl3": ".content h3",
+            "text": ""
+        }
+    },
+    "selectors_exclude": [
+        "nav",
+        "footer",
+        ".aside",
+        "aside",
+        ".search-header"
+    ],
+    "min_indexed_level": 1,
+    "scrape_start_urls": false,
+    "sitemap_urls": [
+        "https://wwww.simonwei.top/sitemap.xml"
+    ],
+    "sitemap_alternate_links": true,
+    "stop_urls": [
+        "https://wwww.simonwei.top/tags/*",
+        "https://wwww.simonwei.top/categories/*"
+    ]
+}

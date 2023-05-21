@@ -1,0 +1,147 @@
+################################# Slider #####################################
+slider:
+    enable: true
+    bg_image: "/images/backgrounds/spring1.svg"
+    slider_item:
+        - title: "Go语言社区"
+          content: "The Go Programming Language"
+          animation_in: "left"
+          animation_out: "right"
+          # available animation : left, right, up, down
+          button:
+              enable: true
+              label: "访问官网"
+              link: "https://go.dev/"
+
+        - title: "Rust语言社区"
+          content: "A language empowering everyone to build reliable and efficient software."
+          animation_in: "left"
+          animation_out: "right"
+          # available animation : left, right, up, down
+          button:
+              enable: true
+              label: "访问官网"
+              link: "https://www.rust-lang.org/"
+
+        # slider item loop
+        - title: "Kubernetes社区"
+          animation_in: "left"
+          animation_out: "right"
+          content: "Kubernetes社区"
+          # available animation : left, right, up, down
+          button:
+              enable: true
+              label: "加入社区"
+              link: "https://kubernetes.io/"
+
+############################### Banner feature ###############################
+banner_feature:
+    enable: false
+    title: "云原生资料库"
+    button:
+        enable: true
+        label: "点击进入"
+        link: "https://lib.test.io/"
+    image: "/images/banner/cloud-landscape-zh.jpg"
+    feature_item:
+        # feature item loop
+        - name: "容器"
+          icon: "ti-layout-grid3" # icon pack : https://themify.me/themify-icons
+          image: "/images/banner/containers.svg"
+          content: "容器作为云原生应用的标准交付物和最小的构建单元，一次构建，到处运行。"
+
+############################## about ##################################
+about:
+    enable: true
+    title: "关于 Simon Wei"
+    partner_enabled: false
+    funfacts_enabled: false
+    # image: "/images/avatar."
+    content: "魏晓鹏（Simon Wei），软件开发工程师，摄影爱好者。"
+    button:
+        enable: true
+        label: "详细介绍"
+        link: "about"
+
+############################# Book ################################
+book:
+    enable: false
+    title: "图书"
+    # book item comes from "content/**/book" folder.
+    book_item:
+        - name: "Istio 服务网格"
+          link: "/istio-handbook/"
+        - name: "Kubernetes 中文指南"
+          link: "/kubernetes-handbook/"
+        - name: "Envoy 基础教程"
+          link: "/envoy-handbook/"
+
+########################## Call to action ############################
+cta:
+    enable: false
+    title: "欢迎与几千名云原生早期采纳者一起加入云原生社区！"
+    button:
+        enable: true
+        label: "点此申请"
+        link: "https://wj.qq.com/s2/5479026/bf82/"
+
+######################## Success story #############################
+success_story:
+    enable: false
+    bg_image: "/images/backgrounds/bg1.svg"
+    title: "云原生社区播客"
+    content: "云原生社区播客由云原生社区主办，致力于云原生知识的传播和普及。云原生社区播客经常举办线上直播活动， 分享云原生领域的前沿知识和动向。欢迎关注我们的 Bilibili [频道](https://space.bilibili.com/515485124)和[直播间](http://live.bilibili.com/22230973)。"
+    # video link
+    # video_link : "https://youtu.be/26kbaZxcB4A"
+    video_link: "https://space.bilibili.com/515485124"
+
+############################# event ################################
+event:
+    enable: false
+    title: "活动信息"
+    # event item comes from "content/**/event" folder.
+
+########################### funfacts ############################
+funfacts:
+    enable: false
+    funfact_item:
+        # funfact item loop
+        - name: "社区活动"
+          count: "21"
+          link: "https://cloudnative.to/event/"
+
+        # funfact item loop
+        - name: "社区直播"
+          count: "39"
+          link: "https://space.bilibili.com/515485124/"
+
+        # funfact item loop
+        - name: "社区成员"
+          count: "11164"
+          link: "https://cloudnative.to"
+
+# funfact is for about page
+
+############################# blog ################################
+blog:
+    enable: true
+    title: "原创博客"
+
+############################# algo ################################
+algo:
+    enable: false
+    title: "算法"
+
+############################ footer ###############################
+footer:
+    content: "欢迎来到本站!"
+    # footer_image: "/images/wechat.webp"
+    address: "中国，深圳"
+    email: "simonwei@simonwei.io"
+    subscribe_enable: false
+    button_link: "/contact"
+    button_title: "订阅"
+
+### contact ###
+contact:
+    qr_code: ""

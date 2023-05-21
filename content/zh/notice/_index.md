@@ -1,0 +1,12 @@
+---
+title: "通知"
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# meta description
+description: "重要信息通知。"
+type: "notice"
+image: "images/backgrounds/notification.jpg"
+---
+
+<!-- -   [Jimmy Song - 专注于探索后 Kubernetes 时代的云原生新范式](https://jimmysong.io/) -->
