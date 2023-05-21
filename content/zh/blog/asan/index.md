@@ -1,6 +1,6 @@
 ---
 title: "ASAN内存检测工具"
-description: "ASAN内存检测工具"
+description: "ASAN内存检测工具Go使用。"
 date: 2023-01-23T12:18:40+08:00
 draft: false
 tags: ["go"]

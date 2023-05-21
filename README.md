@@ -19,3 +19,7 @@ The website of [simonwei97.top](https://simonwei97.top) is powder by Hugo versio
 -   `<detail "title">`
 -   `<figure src="" alt="" width="">`
 -   [highlight](https://gohugo.io/content-management/syntax-highlighting/)
+
+## 网站搭建
+
+https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action/

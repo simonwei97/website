@@ -1,7 +1,7 @@
 ---
 title: "Linux常用命令"
-description: "Linux常用命令"
-date: 2023-03-23T12:18:40+08:00
+description: "Linux常用命令梳理。"
+date: 2022-10-23T12:18:40+08:00
 draft: false
 tags: ["linux"]
 categories: ["linux"]

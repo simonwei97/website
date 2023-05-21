@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.webp"
 image: "images/blog/data_structure.jpeg"
 ---
 
-## 单链表
+## 1.单链表
 
 {{< tabs tabTotal="2">}}
 {{< tab tabName="Go" >}}
