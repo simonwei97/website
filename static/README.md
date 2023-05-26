@@ -1,4 +1,4 @@
-[Simon Wei's blog](https://www.simonwei.top)
+[Simon Wei's blog](https://simonwei.top)
 
 Proudly powered by [Hugo](https://gohugo.io) ❤️
 

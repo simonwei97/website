@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.simonwei.top"
+baseURL = "https://simonwei.top"
 title = "Simon Wei's blog"
 # post pagination
 paginate = "10"

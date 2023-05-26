@@ -2,13 +2,13 @@
     "index_name": "DocSearch",
     "start_urls": [
         {
-            "url": "https://wwww.simonwei.top/blog/"
+            "url": "https://simonwei.top/blog/"
         },
         {
-            "url": "https://wwww.simonwei.top/en/blog/"
+            "url": "https://simonwei.top/en/blog/"
         },
         {
-            "url": "https://wwww.simonwei.top/blog/"
+            "url": "https://simonwei.top/blog/"
         }
     ],
     "selectors": {
@@ -33,11 +33,11 @@
     "min_indexed_level": 1,
     "scrape_start_urls": false,
     "sitemap_urls": [
-        "https://wwww.simonwei.top/sitemap.xml"
+        "https://simonwei.top/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [
-        "https://wwww.simonwei.top/tags/*",
-        "https://wwww.simonwei.top/categories/*"
+        "https://simonwei.top/tags/*",
+        "https://simonwei.top/categories/*"
     ]
 }

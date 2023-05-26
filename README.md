@@ -2,7 +2,7 @@
 
 [![build-and-deploy](https://github.com/simonwei97/website/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/simonwei97/website/actions/workflows/build-and-deploy.yml) [![update-algolia](https://github.com/simonwei97/website/actions/workflows/update-algolia.yml/badge.svg)](https://github.com/simonwei97/website/actions/workflows/update-algolia.yml)
 
-The website of [simonwei.top](https://www.simonwei.top) is powder by Hugo version v0.105.0 extended.
+The website of [simonwei.top](https://simonwei.top) is powder by Hugo version v0.105.0 extended.
 
 -   Theme: [educenter-hugo](https://github.com/themefisher/educenter-hugo) by themefisher.
 -   Font: [Nokia](https://www.font-generator.com/fonts/Nokia/?size=46&bg=none&color=ffffff)

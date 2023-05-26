@@ -11,6 +11,11 @@ description: "魏晓鹏（Simon Wei）的简介。"
 
 魏晓鹏（Simon Wei），软件开发工程师，本科毕业于[南方科技大学](https://www.sustech.edu.cn/)。
 
+## CV 下载
+
+-   中文：{{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+-   英文：{{% staticref "files/cv.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 ## 履历
 
 | No  |                        公司                        |      职位      | Base |     时间      |
